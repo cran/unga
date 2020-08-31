@@ -1,0 +1,16 @@
+f738ab359ce052d66a705c280715fd1b *DESCRIPTION
+ed567650f9d794d631203c93fb0fd527 *NAMESPACE
+49345b05702ae6a559132fafb4429a11 *NEWS.md
+b87114042b02817dc0190970e8ef8b9c *R/table_unga.R
+32e46b0ae7cd936a15ec8d8b8b16b71a *README.md
+4ca47825ef509ce4b528b92764c60a1c *build/vignette.rds
+bd8f2f38eada395c651d64aaa87064d1 *inst/doc/Vignette.R
+a1eea18a17810ce3232a65e165bc116e *inst/doc/Vignette.Rmd
+f8060d146ffadffadb12a0cf7c32c7be *inst/doc/Vignette.html
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+ce6c8f1982234af5eba86fae4def23e7 *man/table_alt.Rd
+c16702022ca6fe21bf47435693d1b469 *man/table_non_resp.Rd
+d2671fd0fadeaf301da565d2637e31e6 *man/table_non_resp_2.Rd
+06222813ff9f1500c563182080748476 *man/table_unga.Rd
+94eaa5083ad28359d6dc4228754c6283 *man/table_unga_general.Rd
+a1eea18a17810ce3232a65e165bc116e *vignettes/Vignette.Rmd
